@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "cursor-design": {
+      "url": "http://127.0.0.1:48731/mcp?token=orzqsDc_ZJhEIreoUFYXLRf-ubl-il7V",
+      "headers": {
+        "Authorization": "Bearer orzqsDc_ZJhEIreoUFYXLRf-ubl-il7V"
+      }
+    }
+  }
+}
